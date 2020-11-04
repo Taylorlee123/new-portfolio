@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi, my name is',
   name: 'Taylor Salzman',
   subtitle: 'I am a User Experience Researcher and Designer',
-  cta: 'I solve complex problems using elegant and efficient design',
+  cta: 'About Me',
 };
 
 // ABOUT DATA
