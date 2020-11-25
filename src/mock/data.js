@@ -67,7 +67,7 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
+      name: '',
       url: '',
     },
     {
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/taylorlsalzman/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Taylorlee123',
     },
   ],
 };
