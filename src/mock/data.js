@@ -30,10 +30,12 @@ export const projectsData = [
     id: nanoid(),
     img: 'cs1.png',
     title: 'Wildfired UX Case Study',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    info:
+      'Wildfired is a mobile application designed to provide a one stop shop of users living near areas prone to wildfires.',
+    info2:
+      'Users can get accurate forecasts of a fires trajectory, have easy access to a wealth of information on fire preparation and emergency planning, and will be able to warn locacl residents and authorities about observed potential causes of a fire.',
+    url: 'https://xd.adobe.com/view/30ece811-af3c-47d7-80ec-d21a1d42b90d-65bf/',
+    repo: 'https://www.behance.net/gallery/103933277/Wildfired-UX-Case-Study', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
