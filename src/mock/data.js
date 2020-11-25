@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'Front End Development From Scratch',
     info: '',
     info2: '',
-    url: '',
+    // url: '',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -52,7 +52,7 @@ export const projectsData = [
     title: 'Graphic Design: Commercial Real Estate',
     info: '',
     info2: '',
-    url: '',
+    // url: '',
     repo: '', // if no repo, the button will not show up
   },
 ];
