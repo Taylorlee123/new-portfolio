@@ -39,7 +39,11 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Property of{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.linkedin.com/in/taylorlsalzman/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Taylor Salzman
           </a>
         </p>
@@ -48,5 +52,5 @@ const Footer = () => {
     </footer>
   );
 };
-
+// Template Created By Jacobo Martiìnez. Many Thanks!!
 export default Footer;
