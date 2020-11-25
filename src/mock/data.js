@@ -72,8 +72,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'behance',
+      url: 'https://www.behance.net/taylorsalzman',
     },
     {
       id: nanoid(),
