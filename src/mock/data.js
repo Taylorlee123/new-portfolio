@@ -43,6 +43,7 @@ export const projectsData = [
     title: 'Front End Development From Scratch',
     info: '',
     info2: '',
+    url: '',
     repo: '', // if no repo, the button will not show up
   },
   {
