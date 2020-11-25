@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'About-Image-1200px-min',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'HP-Wildfired-1200px-min',
+    title: 'Wildfired UX Case Study',
     info: '',
     info2: '',
     url: '',
