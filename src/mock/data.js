@@ -39,8 +39,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'cs2.png',
+    title: 'Front End Development From Scratch',
     info: '',
     info2: '',
     url: '',
@@ -48,8 +48,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'cs3.png',
+    title: 'Graphic Design: Commercial Real Estate',
     info: '',
     info2: '',
     url: '',
