@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'About-Image-1200px-min',
+  img: 'profile1.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'HP-Wildfired-1200px-min',
+    img: 'cs1.png',
     title: 'Wildfired UX Case Study',
     info: '',
     info2: '',
