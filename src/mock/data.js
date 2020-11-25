@@ -57,19 +57,19 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Want to work together? Sounds good to me!',
+  btn: 'Send me a message',
+  email: 'salzmantaylor@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: '',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: '',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'behance',
