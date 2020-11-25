@@ -43,7 +43,6 @@ const Footer = () => {
             Jacobo Martínez
           </a>
         </p>
-
         {isEnabled && <GithubButtons />}
       </Container>
     </footer>
